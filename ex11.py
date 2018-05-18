@@ -10,8 +10,7 @@ print(f"You are {age} years old and you are {height} tall. Your weight is {weigh
 #Study Drills
 
 # 1. Go online and find out what Python’s input does.
-#It allows the user to type something in, to input something.The value in
-#input() always be a string.
+#It allows the user to type something in, to input something.
 
 # 2. Can you find other ways to use it? Try some of the samples you find.
 # The other way "raw_input()" was used in Python 2 which is changed to input() in Python 3.
